@@ -1,0 +1,7 @@
+[wokwi]
+version = 1
+
+[files]
+"sketch.ino" = "sketch.ino"
+"diagram.json" = "diagram.json"
+"libraries.txt" = "libraries.txt"
